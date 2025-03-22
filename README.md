@@ -1,4 +1,5 @@
-<!---
-mattzirp/mattzirp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey there, I'm Matt. 
+
+**ServiceNow Developer** at a healthcare company by day ☼
+**Master's Data Science Student** at the University of Calgary by night ☾
+
